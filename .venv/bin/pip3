@@ -1,4 +1,4 @@
-#!/home/devasc/Desktop/devnet-day1-IB23-yutsevich/.venv/bin/python3
+#!/home/devasc/Desktop/devnet-day1-IB23-yutsevich/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

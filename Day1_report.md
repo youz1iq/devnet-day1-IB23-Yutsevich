@@ -11,6 +11,7 @@
 
 ## 3. VM evidence
 - File: `artifacts/day1/env.txt` exists: Yes
+```bash
 (.venv) devasc@labvm:~/Desktop/devnet-day1-IB23-yutsevich$ hostnamectl && date   Static hostname: labvm
          Icon name: computer-vm
            Chassis: vm
@@ -21,7 +22,7 @@
             Kernel: Linux 5.4.0-37-generic
       Architecture: x86-64
 Tue 10 Mar 2026 10:51:45 AM UTC
-
+```
 ## 4. Repo structure (must match assignment)
 - `src/day1_api_hello.py` : Yes
 - `tests/test_day1_api_hello.py` : Yes
@@ -31,6 +32,7 @@ Tue 10 Mar 2026 10:51:45 AM UTC
 
 ## 5. Commands run (paste EXACT output)
 ### 5.1 Script run
+``` bash 
 {
   "api": {
     "response_sha256": "ffefdf50d54770c2a20ba143e42daa910535c20ec5ca7a1e449dac71729f00fe",
@@ -51,6 +53,7 @@ Tue 10 Mar 2026 10:51:45 AM UTC
     "token": "D1-IB-23-5b-28-F543"
   }
 }
+```
 
 ## 6. What i learned today 
 Научился работать с переменными окружения через файл .env 

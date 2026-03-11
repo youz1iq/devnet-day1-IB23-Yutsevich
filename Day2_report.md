@@ -25,7 +25,7 @@
 
 ## 5) Commands output
 ### 5.1 Generator
-```text
+```bash
 {
   "schema_version": "2.0",
   "generated_utc": "2026-03-11T14:46:19.224938+00:00",
@@ -49,18 +49,20 @@
     "title_len": 18
   }
 }
+```
 
-5.2 tests
+### 5.2 tests
+```bash 
 (.venv) devasc@labvm:~/Desktop/devnet-day1-IB23-yutsevich$ pytest -q..                                       [100%]2 passed in 0.22s
-
-What I learned
+``` 
+## 6)What I learned
 Работа с ветками Git: создание, переключение и выполнение слияния (merge).
 
 Разрешение конфликтов: идентификация маркеров конфликта в файлах и их ручное устранение.
 
 Тестирование: использование pytest для автоматической проверки структуры артефактов.
 
-7) Problems & fixes
+## 7) Problems & fixes
 Problem:
 Скрипт не видел переменные окружения из файла .env (ошибка STUDENT_TOKEN), а файл тестов в репозитории был пустым (collected 0 items).
 Fix:

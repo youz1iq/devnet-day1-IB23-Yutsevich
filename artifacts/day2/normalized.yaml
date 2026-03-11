@@ -1,0 +1,12 @@
+computed:
+  title_len: 18
+student:
+  group: IB-23-5b
+  name: Yutsevich Artem
+  token: D1-IB-23-5b-28-F543
+  token_hash8: 659f1a7b
+todo:
+  completed: false
+  id: 1
+  title: delectus aut autem
+  userId: 1

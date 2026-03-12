@@ -1,0 +1,8 @@
+HTTP/1.0 200 OK
+Content-Type: application/json
+Content-Length: 1129
+Link: <http://library.demo.local/api/v1/books?page=1>; rel="next"
+Access-Control-Allow-Origin: *
+Server: Werkzeug/0.14.1 Python/3.8.2
+Date: Thu, 12 Mar 2026 16:14:49 GMT
+

@@ -1,0 +1,15 @@
+{
+  "api_key_sha256": "e34aed5f66e439cd1b25515f6101faaca99c7588724b53b0a1001c52b3f1b2df",
+  "request": {
+    "author": "Yutsevich Artem",
+    "id": 5028,
+    "isbn": "978-28659f1a7b",
+    "title": "My DevNet Book 659f1a7b"
+  },
+  "response": {
+    "author": "Yutsevich Artem",
+    "id": 5028,
+    "title": "My DevNet Book 659f1a7b"
+  },
+  "status_code": 200
+}

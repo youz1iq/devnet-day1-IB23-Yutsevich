@@ -1,0 +1,41 @@
+{
+  "count": 7,
+  "items": [
+    {
+      "author": "Mark A. Sportack",
+      "id": 0,
+      "title": "IP Routing Fundamentals"
+    },
+    {
+      "author": "Stef Maruch Aahz Maruch",
+      "id": 1,
+      "title": "Python for Dummies"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 2,
+      "title": "Linux for Networkers"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 3,
+      "title": "NetAcad: 20 Years Of Online-Learning"
+    },
+    {
+      "author": "Cisco Student",
+      "id": 105,
+      "title": "DevNet Lab Guide"
+    },
+    {
+      "author": "BOSS",
+      "id": 111,
+      "title": "DevNet Lab "
+    },
+    {
+      "author": "BOSS",
+      "id": 112,
+      "title": "DevNet Lab "
+    }
+  ],
+  "status_code": 200
+}

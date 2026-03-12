@@ -1,0 +1,24 @@
+{
+  "count": 3,
+  "items": [
+    {
+      "author": "Yutsevich Artem",
+      "id": 5028,
+      "isbn": "978-28659f1a7b",
+      "title": "My DevNet Book 659f1a7b"
+    },
+    {
+      "author": "Yutsevich Artem",
+      "id": 11600,
+      "isbn": "978-1-03-570744-7",
+      "title": "Future-proofed asymmetric secured line [659f1a7b]"
+    },
+    {
+      "author": "Yutsevich Artem",
+      "id": 11601,
+      "isbn": "978-0-385-65588-0",
+      "title": "Digitized modular service-desk [659f1a7b]"
+    }
+  ],
+  "status_code": 200
+}

@@ -1,0 +1,60 @@
+[
+    {
+        "id": 111,
+        "title": "DevNet Lab ",
+        "author": "BOSS"
+    },
+    {
+        "id": 112,
+        "title": "DevNet Lab ",
+        "author": "BOSS"
+    },
+    {
+        "id": 105,
+        "title": "DevNet Lab Guide",
+        "author": "Cisco Student",
+        "isbn": "978-0123456789"
+    },
+    {
+        "id": 2,
+        "title": "Linux for Networkers",
+        "author": "Cisco Systems Inc.",
+        "isbn": "000-0000000123"
+    },
+    {
+        "id": 3,
+        "title": "NetAcad: 20 Years Of Online-Learning",
+        "author": "Cisco Systems Inc.",
+        "isbn": "000-0000001123"
+    },
+    {
+        "id": 0,
+        "title": "IP Routing Fundamentals",
+        "author": "Mark A. Sportack",
+        "isbn": "978-1578700714"
+    },
+    {
+        "id": 1,
+        "title": "Python for Dummies",
+        "author": "Stef Maruch Aahz Maruch",
+        "isbn": "978-0471778646"
+    },
+    {
+        "id": 5028,
+        "title": "My DevNet Book 659f1a7b",
+        "author": "Yutsevich Artem",
+        "isbn": "978-28659f1a7b"
+    },
+    {
+        "id": 11600,
+        "title": "Future-proofed asymmetric secured line [659f1a7b]",
+        "author": "Yutsevich Artem",
+        "isbn": "978-1-03-570744-7"
+    },
+    {
+        "id": 11601,
+        "title": "Digitized modular service-desk [659f1a7b]",
+        "author": "Yutsevich Artem",
+        "isbn": "978-0-385-65588-0"
+    }
+]

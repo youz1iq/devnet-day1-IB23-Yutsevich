@@ -91,9 +91,8 @@ tests/test_day3_library_lab.py::test_day3_lab_artifacts_and_rules PASSED [100%]
 В процессе выполнения лабораторной работы возникло три основные проблемы:
 
 Пустые артефакты: Файлы curl_get_books_*.txt и postman_environment.json изначально были пустыми, что приводило к провалу автоматических тестов (pytest).
-## Fix
-Fix:
+## Fix:
 
 Наполнение данными: Сгенерировал содержимое для curl-файлов через терминал с использованием флагов -s и перенаправления вывода >. Экспортировал актуальное окружение из Postman с заполненными переменными base_url и api_key.
-## Proof 
+## Proof:
 Финальный запуск pytest -v tests/test_day3_library_lab.py возвращает статус PASSED.

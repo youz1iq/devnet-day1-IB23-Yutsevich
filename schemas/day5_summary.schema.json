@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "student": {
+      "type": "object",
+      "required": ["token_hash8", "name", "group"]
+    },
+    "modules": {
+      "type": "object",
+      "properties": {
+        "yang": { "type": "object", "properties": { "ok": { "const": true } } },
+        "webex": { "type": "object", "properties": { "ok": { "const": true } } },
+        "pt": { "type": "object", "properties": { "ok": { "const": true } } }
+      }
+    }
+  },
+  "required": ["student", "modules", "status"]
+}

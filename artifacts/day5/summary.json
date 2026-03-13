@@ -1,0 +1,23 @@
+{
+    "student": {
+        "token_hash8": "659f1a7b",
+        "name": "Yutsevich Artem",
+        "group": "IB-23-5b"
+    },
+    "modules": {
+        "yang": {
+            "ok": true,
+            "tree_valid": true
+        },
+        "webex": {
+            "ok": true,
+            "hash_match": true
+        },
+        "pt": {
+            "ok": true,
+            "external_check_passed": true,
+            "api_responses_valid": true
+        }
+    },
+    "status": "COMPLETED"
+}

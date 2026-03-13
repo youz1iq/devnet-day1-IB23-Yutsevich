@@ -1,0 +1,76 @@
+{
+  "info": {
+    "_postman_id": "802f6bfc-b44f-4120-9a60-c9c369200949",
+    "name": "Day5-YA",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52656360",
+    "_collection_link": "https://go.postman.co/collection/52656360-802f6bfc-b44f-4120-9a60-c9c369200949?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"username\": \"cisco\",\r\n  \"password\": \"cisco123!\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:58000/api/v1/ticket",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "58000",
+          "path": [
+            "api",
+            "v1",
+            "ticket"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "New Request",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "New Request",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "X-Auth-Token",
+            "value": "NC-146-05dfb9f99c5c4c60814c-nbi",
+            "type": "text"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:58000/api/v1/network-device",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "58000",
+          "path": [
+            "api",
+            "v1",
+            "network-device"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Starting REST_LAB (Python)...
+Starting REST script inside Packet Tracer...
+Ticket successfully received!
+Network Hosts List:
+Name: PC4 | IP: 192.168.102.3 | MAC: 00E0.F96C.155B
+Name: PC2 | IP: 10.0.2.130 | MAC: 0060.47C1.A4DB
+Name: Admin | IP: 10.0.1.129 | MAC: 0050.0FCE.B095
+Name: PC2 | IP: 10.0.2.130 | MAC: 0060.47C1.A4DB
+Name: PC1 | IP: 10.0.1.130 | MAC: 00E0.A330.3359
+Name: Example Server | IP: 192.168.101.100 | MAC: 000A.413D.D793
+Name: PC3 | IP: 10.0.2.129 | MAC: 0004.9A42.C245
+REST_LAB (Python) finished running.

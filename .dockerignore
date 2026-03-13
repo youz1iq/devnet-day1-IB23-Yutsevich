@@ -1,0 +1,6 @@
+.venv
+.git
+artifacts
+tests
+Dockerfile
+.env

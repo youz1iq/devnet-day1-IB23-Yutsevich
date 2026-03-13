@@ -1,0 +1,5 @@
+POST /login_v2 HTTP/1.1
+Host: localhost
+
+username=artem&password=SuperSecretPassword123
+Response: 200 OK (Secure Verification)

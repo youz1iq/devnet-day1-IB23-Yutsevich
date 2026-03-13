@@ -1,0 +1,6 @@
+﻿# /etc/apache2/ports.conf
+Listen 8081
+
+<IfModule ssl_module>
+    Listen 443
+</IfModule>

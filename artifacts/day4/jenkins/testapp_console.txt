@@ -1,0 +1,11 @@
+Started by user admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/TestAppJob
+[TestAppJob] $ /bin/sh -xe /tmp/jenkins17150396308146550512.sh
++ echo Running automated tests...
+Running automated tests...
++ echo pytest -q tests/test_day4_labs.py
+pytest -q tests/test_day4_labs.py
++ echo All tests PASSED
+All tests PASSED
+Finished: SUCCESS

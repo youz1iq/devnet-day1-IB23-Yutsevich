@@ -1,0 +1,5 @@
+﻿
+50645500980ee81b934f75b0cfcac3b7c9bf5dac04772d7de23ae4abd6a53306   jenkins/jenkins:lts   "/usr/bin/tini -- /usr/local/bin/jenkins.sh"   21 minutes ago   Up 21 minutes   0.0.0.
+0:50000->50000/tcp, [::]:50000->50000/tcp, 0.0.0.0:9090->8080/tcp, [::]:9090->8080/tcp   jenkins-lab
+
+

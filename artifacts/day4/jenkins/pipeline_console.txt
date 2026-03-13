@@ -1,0 +1,27 @@
+Started by user admin
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /var/jenkins_home/workspace/SamplePipeline
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (Preparation)
+[Pipeline] echo
+Preparing environment for Artem Yutsevich...
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Build)
+[Pipeline] echo
+Triggering build logic...
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Results)
+[Pipeline] echo
+Pipeline execution complete. Finished: SUCCESS
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS

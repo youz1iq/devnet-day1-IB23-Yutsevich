@@ -1,0 +1,1 @@
+﻿CREATE TABLE USER_ACCOUNTS (id INT, username TEXT, pass_hash TEXT);

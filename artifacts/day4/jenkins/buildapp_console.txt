@@ -1,0 +1,11 @@
+Started by user admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/BuildAppJob
+[BuildAppJob] $ /bin/sh -xe /tmp/jenkins5665427272653120789.sh
++ echo Starting build process for Day 4...
+Starting build process for Day 4...
++ echo Building Docker image: sampleapp:day4
+Building Docker image: sampleapp:day4
++ echo Build SUCCESSFUL
+Build SUCCESSFUL
+Finished: SUCCESS

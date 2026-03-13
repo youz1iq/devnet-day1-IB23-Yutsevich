@@ -1,0 +1,4 @@
+POST /signup_v2 HTTP/1.1
+Host: localhost
+
+username=artem&password_hash=d15a583ffe64ef5019b0289f9a5dbe08a51cca275202d683ef568045875efbcb
